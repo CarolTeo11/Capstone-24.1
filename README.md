@@ -3,7 +3,8 @@
 - by CT
 
 <img width="800" alt="image" src="https://github.com/CarolTeo11/Capstone-24.1/assets/130137674/8f0dfbf1-e0d9-4f36-9170-aabc44b94e77">
-* Note: There is not many changes from Capstone-20.1.  Only made changes to plots to make it visually more informative in 3D.
+
+* Note: There are not many changes from Capstone-20.1.  Only made changes to plots to make it visually more informative in 3D.
 
 ### Executive summary
  
