@@ -203,3 +203,7 @@ Next Steps and recommendations:
 
 
 ### Outline of project
+
+- [Link to data](https://github.com/CarolTeo11/Capstone-20.1/blob/main/depressed.csv)
+- [Link to python code](https://github.com/CarolTeo11/Capstone-20.1/blob/main/Capstone%20-%20Depression.ipynb)
+
